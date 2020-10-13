@@ -11,7 +11,7 @@ using namespace std;
 
 int main()
 {
-    setlocale(LC_ALL, "rus");
+    setlocale(LC_ALL, "ru");
     srand(time(NULL));
     int n; 
     cout << "Введите размерность матрицы:";
